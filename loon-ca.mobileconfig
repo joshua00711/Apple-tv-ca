@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadCertificateFileName</key>
+			<string>loon-ca.crt</string>
+			<key>PayloadContent</key>
+			<data>
+			MIIDMzCCAhugAwIBAgIUTQuAN9cjDR5V+Fiu5gQw7rwdPmMwDQYJ
+			KoZIhvcNAQELBQAwOzENMAsGA1UEChMETG9vbjEqMCgGA1UEAxMh
+			TE9PTiBDQSgyMDI2LTExLTI1KSAxNzk1NjA2NzA2OTIyMB4XDTI2
+			MTEyNTExMzgyNloXDTMxMTEyNDExMzgyNlowOzENMAsGA1UEChME
+			TG9vbjEqMCgGA1UEAxMhTE9PTiBDQSgyMDI2LTExLTI1KSAxNzk1
+			NjA2NzA2OTIyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+			AQEA38adSYRexQ6RPvuLEkxrfEFXH6hDkADcz5FM/Q2vliI1vHqc
+			QN/SzmTX7vliRFQJG3Szt4c3UiylaKLoiqMB7P/7g3CzQqRhIA35
+			024L4YYkthulupp0o5kb259ExkgpCFRDaqD4Ui9tbdBBJZ0D63Lo
+			Or2Jlwf9Oz9lRTv8kyviC4gaLQ+Tc3fY20GqpxMIypKGlynipDjq
+			ZNt36wNQAjXVdFtV55I9lUYLVJHe4rVbGBOYsngprP21ovFVLOp/
+			f5TWnmx6+pHT0tM5qVYb98ozAmvAbr802H75WDDqG3z860e8OOy5
+			CgAw1+f5V/uTIRT6G9ZpY1lIa3vzWTZcbwIDAQABoy8wLTAMBgNV
+			HRMEBTADAQH/MB0GA1UdDgQWBBS9MjCj0ztDSUS9W/aytZJjo8D1
+			1jANBgkqhkiG9w0BAQsFAAOCAQEAi552wpbFvUown2bseJiL+Lpg
+			F636bfAYuco+mtdxg1/to08Hkbn690ID3BSD3okMih2w7kZGo9RO
+			ZSWrfrYmzupi/iC/GTbpojgOmc705oyps81T4pg4c/DGleBsNcsz
+			tFFy0VVl79OvM6kJlsRsfR6ESMKNTZQ8lDIU0RbBQTIT872BFXzk
+			p7CaMPjdkGRJrq0V6w7GgGWKYOEcx7nc6oL7y57XPxynhOv3npP/
+			JY6wAQcSF0zAgyNGQNzjaDKzW04vAqVB4A1phk0gJaNymyEAcdTV
+			jWMPk0EBOxJl2Vcb1IiHoXZcBeQdjRmLgktCYetot9WH97Y+utTu
+			9/lHYg==
+			</data>
+			<key>PayloadDescription</key>
+			<string>Loon CA certificate for HTTPS/MitM trust on Apple TV.</string>
+			<key>PayloadDisplayName</key>
+			<string>Loon CA</string>
+			<key>PayloadIdentifier</key>
+			<string>com.jtwinner.loonca.certificate</string>
+			<key>PayloadType</key>
+			<string>com.apple.security.root</string>
+			<key>PayloadUUID</key>
+			<string>60B8D75F-1673-45CD-98A8-362421A47E0A</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Installs the Loon CA root certificate.</string>
+	<key>PayloadDisplayName</key>
+	<string>Loon CA</string>
+	<key>PayloadIdentifier</key>
+	<string>com.jtwinner.loonca.profile</string>
+	<key>PayloadOrganization</key>
+	<string>Loon</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>CB31AC22-22FA-4E25-BFA7-A287D7BDEA33</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
